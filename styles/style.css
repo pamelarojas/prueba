@@ -1,0 +1,64 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+
+body.inicio{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: "Lobster", cursive; 
+	background-image: url("../imagenes/fondo3.jpg");
+    }
+
+body.nosotros{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: "Lobster", cursive; 
+	background-image: url("../imagenes/nosotros11.jpg");
+}    
+
+body.noticias{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: "Lobster", cursive; 
+	background-image: url("../imagenes/fondo-nosotros.jpg");
+}    
+
+.nav{
+	float: right;
+	background-color: #47D7AC;
+	font-size: 20px;
+    }
+
+
+.jumbotron {
+	background-color: transparent;
+    }
+
+.container{
+	margin-top: 150px;
+
+}
+
+
+.footer{
+	color: #E4002B;
+	background-image: #BEC6C4;
+
+}
+
+.ubicacion{
+	margin-left: 30%;
+	padding-top: 30px;
+	
+}
+
+h1{
+	font-size: 40px;
+	color: 	#E40046;
+ }
+
+}
